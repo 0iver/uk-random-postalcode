@@ -1,6 +1,6 @@
 {
   "name": "uk-random-postalcode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "random generator for uk postalcodes",
   "main": "index.js",
   "scripts": {
